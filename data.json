@@ -1,0 +1,73 @@
+{"parts": [
+        {"tag": "greeting",
+         "styles": ["Hi", "How are you", "Is anybody here?","Hey","Hallo", "Hello", "WhatsApp"],
+         "answers": ["Hello, How can I serve you", "What do you want ??", "Hi, how can I help in field of science?"],
+         "context": [""]
+        },
+        {"tag": "goodbye",
+         "styles": ["Bye", "See you later", "Goodbye", "Nice to talk to you, bye", "what the next time"],
+         "answers": ["See you soon", "Have a good day", "Bye! see you again soon."],
+         "context": [""]
+        },
+        {"tag": "thanks",
+         "styles": ["Thanks", "Thank you", "That's helpful", "thanks", "Thanks for help"],
+         "answers": ["You welcome", "Any time!", "Thanks to you"],
+         "context": [""]
+        },
+        {"tag": "noanswer",
+         "styles": [],
+         "answers": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"],
+         "context": [""]
+        },
+        {"tag": "options",
+         "styles": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
+         "answers": ["I can guide you through mathematics, Chemistry, Biology", "Astronomy, Physics, Computer Science"],
+         "context": [""]
+        },
+        {"tag": "mathematics",
+         "styles": ["How trigonometry can be used?", "What about algebra?", "Tell me about applied mathematics?", "Tell me about the relationship between mathematics and physics?", "Tell me about Calculus Mathematics?" ],
+         "answers": ["Let's move on to the mathematics section"],
+         "context": [""]
+        },
+        {"tag": "Chemistry",
+         "styles": ["What do you know about organic chemistry?", "Tell me about chemistry?", "Tell me about the history of chemistry?", "Tell me about the types of chemistry?", "Tell me about the importance of chemistry?" ],
+         "answers": ["Let's move on to the Chemistry section"],
+         "context": [""]
+        },
+        {"tag": "Biology",
+         "styles": ["What is biology?", "Tell me about Biology?", "Tell me about the history of Biology?", "Tell me about the types of Biology?", "Tell me about the importance of Biology?" ],
+         "answers": ["Let's move on to the Biology section"],
+         "context": [""]
+        },
+        {"tag": "Astronomy",
+         "styles": ["What is Astronomy?", "Tell me about Astronomy?", "Tell me about the history of Astronomy?", "Tell me about the types of Astronomy?", "Tell me about the importance of Astronomy?" ],
+         "answers": ["Let's move on to the Astronomy section"],
+         "context": [""]
+        },
+        {"tag": "Physics",
+         "styles": ["What is Physics?", "Tell me about Physics?", "Tell me about the history of Physics?", "Tell me about the types of Physics?", "Tell me about the importance of Physics?" ],
+         "answers": ["Let's move on to the Physics section"],
+         "context": [""]
+        },
+        {"tag": "Computer Science",
+         "styles": ["What is Computer?", "Tell me about Computer?", "Tell me about the history of Computer?", "Tell me about the types of Computer?", "Tell me about the importance of Computer?" ],
+         "answers": ["Let's move on to the Computer Science section"],
+         "context": [""]
+        },
+        {"tag": "branches of mathematics",
+         "styles": ["Do you have knowledge about branches of mathematics?", "Do you have experience in mathematics branches?", "Do you have information about branches of mathematics?"],
+         "answers": ["Please which branch in mathematics you are interested in"],
+         "context": [""]
+        },
+        {"tag": "branches of physics",
+          "styles": ["Do you have knowledge about branches of physics?", "Do you have experience in physics branches?", "Do you have information about branches of physics?"],
+         "answers": ["Please which branch in physics you are interested in"],
+         "context": [""]
+        },
+        {"tag": "branches of chemistry",
+         "styles": ["Do you have knowledge about branches of chemistry?", "Do you have experience in chemistry branches?", "Do you have information about branches of chemistry?"],
+         "answers": ["Please which branch in chemistry you are interested in"],
+         "context": [""]
+        }
+   ]
+}
